@@ -3,4 +3,8 @@ numpy
 seaborn
 -e .
 logging
-scikit-learn
+scikit-learn == ()
+xgboost
+catboost
+
+
